@@ -1,80 +1,24 @@
 ---
 layout: page
 title: About
-description: About page of Lj Miranda - Blog 
+description: About page of Jennifer Jiang - Blog 
 permalink: /about/
 ---
 
-Hi friends! My name is Lj Miranda, and welcome to my website! 
-
-I [build things](https://github.com/ljvmiranda921).
-
-I started this site to tell the story of my tech journey. I believe in
-**technology that is open, enabling, and life-giving**. I aspire to usher that
-potential&mdash;even for just a tiny bit. But, there is still a long way to go,
-and this site records my progress. 
-
-Here, you'll find some of my **thoughts, works, and notes** on software
-development, machine learning, and research. I hope you'll spend a nice time
-here, so go grab yourself a coffee and feel free to look around! 
-
-Other links: [[Game Dev](https://ljvmiranda921.itch.io)] [[Game Boy Camera Photos](https://ljvmiranda921.github.io/gallery)]
+Hi there! My name is Jennifer, and welcome to my website! 
 
 
 ## Background
 
-I'm a [Predoctoral Young
-Investigator](https://allenai.org/predoctoral-young-investigators) at the [Allen
-Institute for Artificial Intelligence (AI2)](https://allenai.org) as part of the
-[AllenNLP team](https://allenai.org/allennlp). Previously, I've worked at the
-following places:
+I'm a senior [research software engineer](https://codeforthought.buzzsprout.com/1326658/11317056-in-conversation-with-ben-goldacre) at [UCL](https://www.ucl.ac.uk/). I straddle between the [Institute of Health Informatics](https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics) and the [UCLH BRC Clinical Research Informatics Unit (CRIU)](https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit), mostly working in applying natural language processing (NLP) to electronic health record (EHRs) systems (Yes, my job is 50% acronyms).
 
-* [Explosion](https://explosion.ai) (Berlin): a natural language processing
-    startup where I worked on the 
-    open-source [spaCy](https://spacy.io) library and the
-    [Prodigy](https://prodi.gy) annotation tool. I co-authored our [first technical
-    report](https://arxiv.org/abs/2212.09255) and developed several features and
-    projects for our software libraries.
-    
-* [Thinking Machines Data Science](https://thinkingmachin.es) (Manila): a data 
-    science consultancy where I built multiple natural language processing
-    products for large enterprises. I worked with several of our biggest clients
-    in Southeast Asia and led teams in the Document AI space.
+I currently work on the [MiADE (Medical information AI Data Extractor)](https://www.ucl.ac.uk/health-informatics/research/medical-information-ai-data-extractor-miade) project, a research service integrated in EHR systems which extracts structured data from real-time clinical notes. I also lead the technical development on using large language models (LLMs) to optimise diagnoses extractions as part of a [UKRI AI Innovation research project](https://www.ukri.org/news/13-million-for-22-ai-for-health-research-projects/).
 
-* [Preferred Networks](https://www.preferred-networks.jp/en/) (Tokyo): as an
-    intern, I implemented a training parallelization framework for
-    [ChainerRL](https://github.com/chainer/chainerrl), an open-source
-    reinforcement learning library.
+Previously, I worked at a computer vision/fitness tech startup. I was one of the first hires on the developer team to launch [Grow Football](https://www.tottenhamhotspur.com/the-club/football-development/grow-football/), a football coaching app with partnerships to Tottenham Hotspur.
 
-I obtained my master's degree from [Waseda
-University](https://www.waseda.jp/top/en) and my bachelor's in Electronics
-Engineering, minor in Philosophy from [Ateneo de Manila
-University](https://www.ateneo.edu). I used to be a bioinformatics researcher
-but moved on to language&mdash; text, like proteins, are sequences after all. My
-research interests include **low-resource and multilingual NLP**, **efficient
-NLP**, and **corpus linguistics**.
+I hold an MSc in Computer Science from [Imperial College London](https://www.ic.ac.uk/) and an MSc in Clinical Neuroscience from [University College London](https://www.ucl.ac.uk/). I briefly worked in research on the [neural basis of spatial navigation](https://www.youtube.com/watch?v=ETaZAyK4IVM) at the [Barry lab](https://barry-lab.com/), where my interest in software and machine learning first developed. This led me to apply to one of the [most selective computer science conversion degrees](https://www.admissionreport.com/imperial-college-london/msc-computing-science), where I dabbled in deep learning and brain-computer interfaces. You can find my thesis [here](/assets/report.pdf).
 
-Lastly, I'm well-involved in open-source and have authored [several
-projects](https://github.com/ljvmiranda921) of my own.
-[Pyswarms](https://github.com/ljvmiranda921/pyswarms) has been quite
-successful; I've seen it being used in [quantum
-physics](https://arxiv.org/abs/1801.07686),
-[chemistry](https://pubs.acs.org/doi/abs/10.1021/acscentsci.8b00307), and
-[teaching](https://www.gousios.gr/courses/algo-ds/optimizations.html), amongst
-[other
-things](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15267041073198929167).
-I love indie games and [dabble in game
-development](https://ljvmiranda921.itch.io) using [Pico-8](https://www.lexaloffle.com/pico-8.php) and
-[Godot](https://godotengine.org/).
-
-<p style="border:3px; border-style:solid; border-color:#a00000; padding: 1em;">
-<b>Short background</b><br>
-Lj Miranda specializes in natural language processing with over five years of
-experience in consulting, open-source development, and research. He helped
-maintain notable open-source libraries such as spaCy and Pyswarms. He dabbles
-in game development during his free time.
-</p>
-
+In my spare time I enjoy weightlifting (my goal is to snatch 50kg), arthouse cinema (my <a href="https://letterboxd.com/thefilmpotato/">letterboxd</a>), and making my cat an influencer (follow <a href="https://www.instagram.com/ladywhiskerson/">@ladywhiskerson</a>).
 
 <!--
 ![](/about/aws_community_builder.png){:width="100px"}
@@ -83,9 +27,10 @@ in game development during his free time.
 
 ## Contact
 
-**Lester James V. Miranda**  
-Seattle, Washington, USA  
-Email: ljvmiranda [at] gmail [dot] com  
-[Curriculum Vitae (PDF)](https://storage.googleapis.com/ljvmiranda/cv.pdf)
+**Jennifer Jiang**  
+London, UK 
 
-<style>.bmc-button img{width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 10px 7px 10px !important;line-height: 35px !important;height:51px !important;min-width:217px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#5F7FFF !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 10px 7px 10px !important;font-size: 28px !important;letter-spacing:0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/ljvmiranda921"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:28px !important;">Buy me a coffee</span></a>
+Email: jennifer.a.jiang [at] gmail [dot] com  
+[Curriculum Vitae (PDF)](/assets/Jennifer_Jiang_CV.pdf)
+
+<!-- <style>.bmc-button img{width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 10px 7px 10px !important;line-height: 35px !important;height:51px !important;min-width:217px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#5F7FFF !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 10px 7px 10px !important;font-size: 28px !important;letter-spacing:0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/jenniferajiang"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:15px;font-size:28px !important;">Buy me a coffee</span></a> -->
