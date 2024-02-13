@@ -13,20 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jennifer Jiang
-email: jennifer.a.jiang@gmail.com
+title: Jennifer Jiang-Kells
+email: jenniferjiangkells@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Some notes on software, systems, NLP and ML for health
+  Some notes on software, NLP and ML for health
 timezone: GMT/BST
 # Link settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jenniferajiang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jenniferjiangkells.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
 # Social settings
 social_sites:
-  github: jenniferajiang
-  linkedin: jennifer-a-jiang
+  github: jenniferjiangkells
+  linkedin: jenniferjiangkells
   twitter: AgentRiver
   # mastodon:
   #   server: fosstodon.org
