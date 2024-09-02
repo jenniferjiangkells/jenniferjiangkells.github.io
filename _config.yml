@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
 timezone: GMT/BST
 # Link settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jenniferjiangkells.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jenniferjiangkells.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
 # Social settings
