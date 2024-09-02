@@ -5,7 +5,7 @@ description: Projects
 permalink: /projects/
 ---
 
-Watch this space!
+A list of projects that I have lead, including personal projects, open-source software created under dotimplement, and software written as part of larger grant-funded research projects.
 
 <ul>
   {% for post in site.categories.projects %}
