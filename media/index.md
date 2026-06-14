@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Media
-description: Talks, panels, podcasts and press
+title: Talks & press
+description: Talks, panels, publications and press
 permalink: /media/
 ---
 
@@ -15,7 +15,7 @@ deploying AI and NLP in healthcare, and on open-source tooling for it.
   <dd><strong>Open Source in Innovation</strong> — invited speaker &amp; panelist, The Turing Way Practitioners Hub, The Alan Turing Institute</dd>
 
   <dt>2025</dt>
-  <dd><strong>Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies</strong> — speaker &amp; panelist, Hamlyn Symposium on Medical Robotics (HSMR 2025), London</dd>
+  <dd><strong>Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies</strong> — invited speaker &amp; panelist, Hamlyn Symposium on Medical Robotics (HSMR 2025), London</dd>
 
   <dt>2024</dt>
   <dd><strong><a href="https://www.youtube.com/watch?v=L_ea5xylAhM">Open Innovation in Practice: Real-World Applications of Open Source AI</a></strong> — panelist, <em>Open Source, Ethics &amp; Innovation in AI</em>, BridgeAI (Innovate UK) at The Alan Turing Institute</dd>
@@ -24,7 +24,7 @@ deploying AI and NLP in healthcare, and on open-source tooling for it.
   <dd><strong><a href="https://youtu.be/_ZqlPsDUdSY">Building healthcare-context aware applications with HealthChain</a></strong> — NHS RPySoc, hosted by the NHS Open Analytics Community · <a href="https://speakerdeck.com/jenniferjiangkells/building-healthcare-context-aware-applications-with-healthchain">slides</a> · <a href="https://dotimplement.github.io/HealthChain/cookbook/cds_sandbox/">walkthrough</a></dd>
 
   <dt>2024</dt>
-  <dd><strong>HealthChain</strong> — Google NHS AI Hackathon</dd>
+  <dd><strong>HealthChain</strong> — Google NHS AI Hackathon (where it all started :))</dd>
 </dl>
 
 ## Conferences &amp; tutorials
@@ -34,10 +34,15 @@ deploying AI and NLP in healthcare, and on open-source tooling for it.
   <dd><strong>Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results</strong> — <a href="https://healtac2024.github.io/programme/">HealTAC 2024</a> (Healthcare Text Analytics Conference), Lancaster</dd>
 
   <dt>2023</dt>
-  <dd><strong>MiADE: live demonstration &amp; code tutorial</strong> — <a href="https://www.ucl.ac.uk/health-informatics/news/2023/jun/miade-healtac-2023">HealTAC 2023</a> (Healthcare Text Analytics Conference), Manchester · <a href="https://colab.research.google.com/github/uclh-criu/miade-tutorials/blob/master/notebooks/miade_tutorial.ipynb">tutorial notebook</a></dd>
+  <dd><strong>MiADE workshop: live demo &amp; code tutorial</strong> — <a href="https://www.ucl.ac.uk/health-informatics/news/2023/jun/miade-healtac-2023">HealTAC 2023</a> (Healthcare Text Analytics Conference), Manchester · <a href="https://colab.research.google.com/github/uclh-criu/miade-tutorials/blob/master/notebooks/miade_tutorial.ipynb">tutorial notebook</a></dd>
 </dl>
+
+## Publications
+
+- Jiang-Kells, J. et al. (2025). [Design and implementation of a natural language processing system at the point of care: MiADE](https://link.springer.com/article/10.1186/s12911-025-03195-1). _BMC Medical Informatics and Decision Making_, 25, 365.
 
 ## Press
 
 - [HealthChain: A New Open Source Integration with Epic](https://www.medplum.com/blog/healthchain) &mdash; Medplum
-- Featured in the [TLDR AI](https://tldr.tech/ai) newsletter
+- Featured in the [TLDR AI](https://tldr.tech/ai/2025-08-21) newsletter (Engineering & Research) (Aug 2025)
+- Featured in the [MLOps Community](https://substack.com/@mlopscommunity/p-175047577) newsletter (Curated finds to help you stay ahead) (Oct 2025)
