@@ -5,14 +5,15 @@ description: Short, informal thoughts
 permalink: /thoughts/
 ---
 
-Short, half-formed thoughts &mdash; things I'm building, reading, and chewing on. For longer pieces and my newsletter, see my [Substack](https://jenniferjiangkells.substack.com).
+Short thoughts &mdash; things I'm building, reading, and chewing on. For longer pieces and my newsletter, see my [Substack](https://jenniferjiangkells.substack.com).
 
 {% assign sorted_thoughts = site.thoughts | sort: 'date' | reverse %}
 {% if sorted_thoughts.size == 0 %}
 
-*Thoughts coming soon.*
+_Thoughts coming soon._
 
 {% else %}
+
 <dl class="media-list" markdown="0">
 {% for thought in sorted_thoughts %}
   <dt>{{ thought.date | date: "%Y" }}</dt>

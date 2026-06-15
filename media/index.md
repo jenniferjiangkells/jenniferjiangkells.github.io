@@ -5,10 +5,9 @@ description: Talks, panels, publications and press
 permalink: /media/
 ---
 
-A selection of talks, panels, podcasts, and press &mdash; mostly on building and
-deploying AI and NLP in healthcare, and on open-source tooling for it.
+A selection of talks, panels, podcasts, and press &mdash; healthcare, AI, open-source.
 
-## Talks &amp; panels
+## Speaking
 
 <dl class="media-list" markdown="0">
   <dt>2026</dt>
@@ -18,10 +17,7 @@ deploying AI and NLP in healthcare, and on open-source tooling for it.
   <dd><strong>Healing Through Collaboration: Open-Source Software in Surgical, Biomedical and AI Technologies</strong> — invited speaker &amp; panelist, Hamlyn Symposium on Medical Robotics (HSMR 2025), London</dd>
 
   <dt>2024</dt>
-  <dd><strong><a href="https://www.youtube.com/watch?v=L_ea5xylAhM">Open Innovation in Practice: Real-World Applications of Open Source AI</a></strong> — panelist, <em>Open Source, Ethics &amp; Innovation in AI</em>, BridgeAI (Innovate UK) at The Alan Turing Institute</dd>
-
-  <dt>2024</dt>
-  <dd><strong><a href="https://youtu.be/_ZqlPsDUdSY">Building healthcare-context aware applications with HealthChain</a></strong> — NHS RPySoc, hosted by the NHS Open Analytics Community · <a href="https://speakerdeck.com/jenniferjiangkells/building-healthcare-context-aware-applications-with-healthchain">slides</a> · <a href="https://healthchainai.github.io/HealthChain/cookbook/">walkthrough</a></dd>
+  <dd><strong><a href="https://www.youtube.com/watch?v=L_ea5xylAhM">Open Innovation in Practice: Real-World Applications of Open Source AI</a></strong> — invited speaker &amp; panelist, <em>Open Source, Ethics &amp; Innovation in AI</em>, BridgeAI (Innovate UK) at The Alan Turing Institute</dd>
 
   <dt>2024</dt>
   <dd><strong>Simplifying development of LLM applications integrated in EHRs with HealthChain</strong> — AI Hackathon in Health 2024, hosted by Deloitte, Google Cloud &amp; the NHS (where it all started :))</dd>
@@ -30,6 +26,9 @@ deploying AI and NLP in healthcare, and on open-source tooling for it.
 ## Conferences &amp; tutorials
 
 <dl class="media-list" markdown="0">
+  <dt>2024</dt>
+  <dd><strong><a href="https://youtu.be/_ZqlPsDUdSY">Building healthcare-context aware applications with HealthChain</a></strong> — NHS RPySoc 2024, hosted by the NHS Open Analytics Community · <a href="https://speakerdeck.com/jenniferjiangkells/building-healthcare-context-aware-applications-with-healthchain">slides</a> · <a href="https://healthchainai.github.io/HealthChain/cookbook/discharge_summarizer/">walkthrough</a></dd>
+  
   <dt>2024</dt>
   <dd><strong>Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results</strong> — <a href="https://healtac2024.github.io/programme/">HealTAC 2024</a> (Healthcare Text Analytics Conference), Lancaster</dd>
 
