@@ -27,13 +27,13 @@ A selection of talks, panels, podcasts, and press &mdash; healthcare, AI, open-s
 
 <dl class="media-list" markdown="0">
   <dt>2024</dt>
-  <dd><strong><a href="https://youtu.be/_ZqlPsDUdSY">Building healthcare-context aware applications with HealthChain</a></strong> — NHS RPySoc 2024, hosted by the NHS Open Analytics Community · <a href="https://speakerdeck.com/jenniferjiangkells/building-healthcare-context-aware-applications-with-healthchain">slides</a> · <a href="https://healthchainai.github.io/HealthChain/cookbook/discharge_summarizer/">walkthrough</a></dd>
+  <dd><strong><a href="https://www.youtube.com/watch?v=_ZqlPsDUdSY&t=1967s">Building healthcare-context aware applications with HealthChain</a></strong> — <a href="https://nhs-r-community.github.io/conference-2024/">NHS RPySoc 2024</a>, hosted by the NHS Open Analytics Community · <a href="https://speakerdeck.com/jenniferjiangkells/building-healthcare-context-aware-applications-with-healthchain">slides</a> · <a href="https://healthchainai.github.io/HealthChain/cookbook/discharge_summarizer/">walkthrough</a></dd>
   
   <dt>2024</dt>
   <dd><strong>Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results</strong> — <a href="https://healtac2024.github.io/programme/">HealTAC 2024</a> (Healthcare Text Analytics Conference), Lancaster</dd>
 
   <dt>2023</dt>
-  <dd><strong>MiADE workshop: live demo &amp; code tutorial</strong> — <a href="https://www.ucl.ac.uk/health-informatics/news/2023/jun/miade-healtac-2023">HealTAC 2023</a> (Healthcare Text Analytics Conference), Manchester · <a href="https://colab.research.google.com/github/uclh-criu/miade-tutorials/blob/master/notebooks/miade_tutorial.ipynb">tutorial notebook</a></dd>
+  <dd><strong>MiADE workshop: live demo &amp; code tutorial</strong> — <a href="http://healtex.org/healtac-2023/programme/">HealTAC 2023</a> (Healthcare Text Analytics Conference), Manchester · <a href="https://colab.research.google.com/github/uclh-criu/miade-tutorials/blob/master/notebooks/miade_tutorial.ipynb">tutorial notebook</a></dd>
 </dl>
 
 ## Publications
