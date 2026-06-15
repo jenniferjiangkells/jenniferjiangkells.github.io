@@ -7,9 +7,9 @@ permalink: /about/
 
 ![Jennifer Jiang-Kells](/assets/profile.jpg){:.about-portrait width="180px" height="180px"}
 
-Hi! I'm Jennifer — a founder and research engineer working on AI in healthcare. I care about technology that actually changes lives, and building is the part I've never been able to put down.
+Hi! I'm Jennifer — a founder and research engineer working on AI in healthcare. My work sits at a rare intersection: taking AI into live clinical use inside the NHS, and building the open-source infrastructure that lets others get there too. I care about technology that actually changes lives, and building is the part I've never been able to put down.
 
-I'm currently building open-source infrastructure for AI in healthcare, starting with [HealthChain](https://github.com/healthchainai/HealthChain), a Python SDK for building, testing, and deploying healthcare AI with native [FHIR](https://www.hl7.org/fhir/) support and EHR connectivity. I started [dotimplement ai](https://dotimplement.ai) after seeing the gap from the inside — healthcare runs on impressive models and demos, but almost no robust tooling to test, evaluate, and ship them reliably — so I'm building the thing I wished existed. Open source for everyone, plus a little consulting for teams I want to work with.
+I'm currently building [HealthChain](https://github.com/healthchainai/HealthChain), a Python SDK for building, testing, and deploying AI in real healthcare systems — handling the [FHIR](https://www.hl7.org/fhir/) and EHR integration that usually blocks it. I started [dotimplement ai](https://dotimplement.ai) after seeing the gap from the inside: healthcare runs on impressive models and demos, but almost no robust tooling to test, evaluate, and ship them reliably — so I'm building the thing I wished existed. Open source for everyone, plus a little consulting for teams I want to work with.
 
 ## Previously
 

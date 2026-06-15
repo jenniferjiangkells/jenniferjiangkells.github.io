@@ -21,10 +21,10 @@ deploying AI and NLP in healthcare, and on open-source tooling for it.
   <dd><strong><a href="https://www.youtube.com/watch?v=L_ea5xylAhM">Open Innovation in Practice: Real-World Applications of Open Source AI</a></strong> — panelist, <em>Open Source, Ethics &amp; Innovation in AI</em>, BridgeAI (Innovate UK) at The Alan Turing Institute</dd>
 
   <dt>2024</dt>
-  <dd><strong><a href="https://youtu.be/_ZqlPsDUdSY">Building healthcare-context aware applications with HealthChain</a></strong> — NHS RPySoc, hosted by the NHS Open Analytics Community · <a href="https://speakerdeck.com/jenniferjiangkells/building-healthcare-context-aware-applications-with-healthchain">slides</a> · <a href="https://dotimplement.github.io/HealthChain/cookbook/cds_sandbox/">walkthrough</a></dd>
+  <dd><strong><a href="https://youtu.be/_ZqlPsDUdSY">Building healthcare-context aware applications with HealthChain</a></strong> — NHS RPySoc, hosted by the NHS Open Analytics Community · <a href="https://speakerdeck.com/jenniferjiangkells/building-healthcare-context-aware-applications-with-healthchain">slides</a> · <a href="https://healthchainai.github.io/HealthChain/cookbook/">walkthrough</a></dd>
 
   <dt>2024</dt>
-  <dd><strong>HealthChain</strong> — Google NHS AI Hackathon (where it all started :))</dd>
+  <dd><strong>Simplifying development of LLM applications integrated in EHRs with HealthChain</strong> — AI Hackathon in Health 2024, hosted by Deloitte, Google Cloud &amp; the NHS (where it all started :))</dd>
 </dl>
 
 ## Conferences &amp; tutorials
