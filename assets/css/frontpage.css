@@ -445,7 +445,6 @@ body {
     grid-template-columns: 1fr;
     gap: 2rem;
     margin-top: 0.5rem;
-    padding-right: clamp(3rem, 12vw, 4.5rem);
   }
 
   .landing-nav {
