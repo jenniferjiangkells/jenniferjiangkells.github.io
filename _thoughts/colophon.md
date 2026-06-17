@@ -1,9 +1,8 @@
 ---
-
-## title: "Colophon: how this site is built"
-
+title: "Colophon: how this site is built"
 date: 2026-06-14
 summary: The type and tech behind the design.
+---
 
 A first thought, on how this site is put together.
 
